@@ -10,24 +10,3 @@ body
     
 }
 
-.footer
-{
-   padding-top: 50px;
-   padding-right: 170px;
-   padding-bottom: 70px;
-}
-.copyright
-{
-    padding-left: 170px;
-    padding-top: 50px;
-}
-.google
-{
-    height: 40px;
-    width: 140px;
-}
-.apple
-{
-    height:27px;
-    width: 120px;
-}
